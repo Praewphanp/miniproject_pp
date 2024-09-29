@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Book A",
+    "author": "Author A",
+    "genre": "Fiction",
+    "publishedYear": 2020,
+    "available": true,
+    "id": 1
+  },
+  {
+    "title": "Book B",
+    "author": "Author B",
+    "genre": "Non-Fiction",
+    "publishedYear": 2019,
+    "available": false,
+    "id": 2
+  }
+]
