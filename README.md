@@ -2,9 +2,9 @@ double chick on page/index.html
 
 Command for build system
 
-mkdir library-system // สำหรับสร้างโฟลเดอร์โปรเจค
+mkdir miniproject_pp // สำหรับสร้างโฟลเดอร์โปรเจค
 
-cd library-system
+cd miniproject_pp
 
 npm init -y // เริ่มต้นโปรเจคด้วย node js
 
